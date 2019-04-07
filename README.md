@@ -1,4 +1,4 @@
-# Template for starting out a new Fable React Native App using F#, .NET Core and Yarn
+# Sample app for the Toodeloo-3910 project
 
 ## Requirements
 * Node.js
@@ -16,6 +16,7 @@ After cloning the respository cd into project root
 * ```dotnet restore``` 
 
 ## Running
+### Set server endpoint in ./src/Constants.fs
 ### Start fable watch-server (enables auto-updating, optional)
 From project root 
 * ```cd src```
